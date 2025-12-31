@@ -24,6 +24,14 @@ and logs human decisions for accountability.
 - Snowflake Streamlit
 - Streamlit + CSS
 
+## 📸 Prototype Screenshots
+
+Screenshots of the working prototype are available in the `/screenshots` folder, including:
+- Dashboard overview with real-time alerts
+- Inventory risk heatmap by location and item
+- Human-in-the-loop alert acknowledgement
+
+
 ## AI for Good Impact
 Prevents life-critical medicine shortages,
 reduces waste, and improves public health readiness.
