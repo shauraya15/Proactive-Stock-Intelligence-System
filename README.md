@@ -1,5 +1,4 @@
 # Proactive-Stock-Intelligence-System
-# Proactive Stock Intelligence System 🚨
 
 AI-assisted, explainable, human-in-the-loop stock-out prevention system
 for public health and NGO supply chains.
