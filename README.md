@@ -5,7 +5,7 @@ for public health and NGO supply chains.
 
 ## Problem
 Critical medicines and essentials often run out because inventory,
-consumption trends, and procurement decisions live in disconnected systems.
+consumption trends, and procurement decisions live in disconnected systems and uneven distributions.
 
 ## Solution
 A Snowflake-native system that predicts stock-outs early,
